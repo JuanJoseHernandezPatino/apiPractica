@@ -4,13 +4,13 @@
         "nombre": "el kraken",
         "clasificacion": "8",
         "director": "daniel",
-        "año": "1293"
+        "anio": "1293"
     },
     {
         "id": "2",
         "nombre": "titanic",
         "clasificacion": "10",
         "director": "jose",
-        "año": "2012"
+        "anio": "2012"
     }
 ]
